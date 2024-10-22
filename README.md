@@ -5,6 +5,7 @@ Esta es una aplicación web interactiva donde los usuarios pueden seleccionar do
 
 Características
 Batalla Pokémon: Los usuarios pueden seleccionar dos Pokémon para enfrentarse, y se muestran sus habilidades.
+
 Lista de Usuarios Aleatorios: La aplicación genera y muestra una lista de usuarios aleatorios con su ID, nombre y correo electrónico.
 Poli Memes: Galería de memes aleatorios que se muestran en tarjetas.
 Tecnologías
